@@ -2,8 +2,8 @@
 //  main.m
 //  WebView
 //
-//  Created by Chris Serra on 10/4/13.
-//  Copyright (c) 2013 Chris Serra. All rights reserved.
+//  Created by Florian Schroeder on 12/12/14.
+//  Copyright (c) 2014 Florian Schroeder. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
