@@ -3,7 +3,7 @@
 //  GSGVPlan
 //
 //  Created by Florian Schroeder on 12/12/14.
-//  Copyright (c) 2013 Florian Schroeder. All rights reserved.
+//  Copyright (c) 2014 Florian Schroeder. All rights reserved.
 //
 
 #import "ViewController.h"
